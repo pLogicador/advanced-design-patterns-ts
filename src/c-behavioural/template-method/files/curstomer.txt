@@ -1,0 +1,7 @@
+Donald Knuth    75  555.555.555-55
+Thomas Cormen   60  444.444.444-44
+David Flanagan  45  333.333.333-33
+Shelley Powers  56  222.222.222-22
+Deitel Ronald   88  111.111.111-11
+Bjarne Stroustrup   95  433.433.433-43
+Ryan Dahl   64  120.784.856-20

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Donald Knuth",
+        "age": "75",
+        "cpf": "555.555.555-55"
+    },
+    {
+        "name": "Thomas Cormen",
+        "age": "60",
+        "cpf": "444.444.444-44"
+    },
+    {
+        "name": "David Flanagan",
+        "age": "45",
+        "cpf": "333.333.333-33"
+    },
+    {
+        "name": "Shelley Powers",
+        "age": "56",
+        "cpf": "222.222.222-22"
+    },
+    {
+        "name": "Deitel Ronald",
+        "age": "88",
+        "cpf": "111.111.111-11"
+    },
+    {
+        "name": "Bjarne Stroustrup",
+        "age": "95",
+        "cpf": "433.433.433-43"
+    },
+    {
+        "name": "Ryan Dahl",
+        "age": "64",
+        "cpf": "120.784.856-20"
+    }
+]

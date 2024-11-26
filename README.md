@@ -1,25 +1,25 @@
-# Advanced Design Patterns with TypeScript
+# 🚀 Advanced Design Patterns with TypeScript
 Este projeto é uma aplicação prática de **Padrões de Design** utilizando **TypeScript**. O objetivo é demonstrar como implementar diferentes padrões de design de software nas categorias **Criacionais**, **Estruturais** e **Comportamentais**.
 
-## Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 Explorar a implementação de **padrões de design** para resolver problemas recorrentes de arquitetura de software, utilizando o **TypeScript** como linguagem base.
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 - **TypeScript**: A linguagem utilizada para implementar os padrões.
 - **Node.js**: Ambiente de execução para os exemplos.
 - **ESLint/Prettier**: Configurações para manter a consistência e qualidade do código.
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 Os padrões de design estão organizados em pastas de acordo com suas categorias:
 
-### 1. a-creational
+### 1. a-creational 🏗️
 Implementações de padrões focados na criação de objetos:
 - Abstract Factory
 - Builder
 - Factory Method
 - Prototype
 - Singleton
-### 2. b-structural
+### 2. b-structural 🧱
 Padrões que tratam de como compor classes e objetos para formar estruturas mais complexas:
 - Adapter
 - Bridge
@@ -28,7 +28,7 @@ Padrões que tratam de como compor classes e objetos para formar estruturas mais
 - Facade
 - Flyweight
 - Proxy
-### 3. c-behavioural
+### 3. c-behavioural 🤝
 Padrões que abordam a interação e a comunicação entre objetos:
 - Chain of Responsibility
 - Command
@@ -40,10 +40,8 @@ Padrões que abordam a interação e a comunicação entre objetos:
 - Strategy
 - Template Method
 - Visitor
-## Outros Arquivos
-- **src/index.ts**: Ponto de entrada do projeto, para execução de exemplos ou testes básicos.
 
-## Como usar
+## 🔧 Como usar
 1. Clone este repositório:
 
 ````bash

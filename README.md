@@ -58,5 +58,5 @@ npm start
 ````
 
 Este projeto é um guia prático para estudar e aplicar **Padrões de Design** usando TypeScript. Cada padrão foi implementado, com exemplos de aplicação.
-Se tiver dúvidas ou sugestões, fique à vontade para abrir uma **issue** ou enviar uma **pull request**! 🚀✨
+Se tiver dúvidas ou sugestões, fique à vontade para abrir uma **issue** ou enviar uma **pull request**! ✨
 
